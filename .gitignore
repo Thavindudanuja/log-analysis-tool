@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.save
+real_results.json
+real_report.html
+results.json
+report.html

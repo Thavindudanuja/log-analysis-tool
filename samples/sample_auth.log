@@ -1,0 +1,19 @@
+Jun 10 08:01:11 webserver sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:14 webserver sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:17 webserver sshd[1234]: Failed password for admin from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:20 webserver sshd[1234]: Failed password for ubuntu from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:23 webserver sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:26 webserver sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Jun 10 08:01:30 webserver sshd[1234]: Accepted password for root from 192.168.1.105 port 54321 ssh2
+Jun 10 08:02:00 webserver sshd[1235]: Failed password for thavindu from 10.0.0.22 port 12345 ssh2
+Jun 10 08:02:05 webserver sshd[1235]: Failed password for thavindu from 10.0.0.22 port 12345 ssh2
+Jun 10 08:03:00 webserver sudo[9901]: thavindu : TTY=pts/0 ; PWD=/home/thavindu ; USER=root ; COMMAND=/bin/bash
+Jun 10 08:04:00 webserver sshd[1236]: Accepted publickey for deploy from 203.0.113.10 port 33456 ssh2
+Jun 10 08:05:00 webserver sshd[1237]: Invalid user testuser from 198.51.100.77 port 43210
+Jun 10 08:05:01 webserver sshd[1237]: Failed password for invalid user testuser from 198.51.100.77 port 43210 ssh2
+Jun 10 08:05:02 webserver sshd[1237]: Failed password for invalid user testuser from 198.51.100.77 port 43210 ssh2
+Jun 10 08:05:03 webserver sshd[1237]: Failed password for invalid user testuser from 198.51.100.77 port 43210 ssh2
+Jun 10 08:05:04 webserver sshd[1237]: Failed password for invalid user testuser from 198.51.100.77 port 43210 ssh2
+Jun 10 08:05:05 webserver sshd[1237]: Failed password for invalid user testuser from 198.51.100.77 port 43210 ssh2
+Jun 10 09:00:00 webserver sshd[2001]: Accepted password for alice from 10.0.0.5 port 22222 ssh2
+Jun 10 09:10:00 webserver sudo[9902]: alice : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt upgrade
