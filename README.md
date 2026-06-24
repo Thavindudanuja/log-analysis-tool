@@ -2,11 +2,6 @@
 
 A Python-based cybersecurity tool that parses system and web server logs, detects threats such as brute-force attacks and web exploitation attempts, and generates detailed HTML reports.
 
-Show Image
-Show Image
-Show Image
-Show Image
-
 
 📋 Features
 
@@ -123,15 +118,11 @@ Source Network Address: 172.16.0.55
 
 
 🔧 Requirements
-
-
 Python 3.8+
 No external libraries required
 
 
 Tested on:
-
-
 Kali Linux (rolling)
 Ubuntu 22.04
 Windows 10/11
